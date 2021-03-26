@@ -1,0 +1,103 @@
+body {
+    background-color: #F6F5F2;
+}
+
+/* .logo{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;  */
+    
+
+.logo img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    
+
+}
+.main-menu{
+    
+    display: block;
+    text-align: center;
+    /*margin-left: 100px;*/
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    height:20px;
+    background-color: rgb(238, 169, 223);
+}
+.cupcakes {
+    margin-top: 20px;
+    width: 150px;
+    height: auto;
+    margin-bottom: 30px;
+
+}
+    
+
+.main-menu a {
+    padding: 20px 30px;
+    /* border: 1px solid #4bac22;*/
+
+}
+
+.footer {
+    margin-top: 250px;
+    height:50px;
+    background-color: rgb(166, 240, 194);
+}
+.cupcakes{
+    display: block;
+    display:-moz-grid-group;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: cover;
+
+}
+.cake{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:10px;
+
+}
+
+.cupcakes li img{
+    display:block;
+    display: inline-block;
+    background-size: cover;
+    border-radius: 50%;
+    margin-top: 20px;
+    width: 100px;
+}
+
+.wedding-cake img{
+    display:block;
+    display:inline;
+    background-size: cover;
+    border-radius: 50%;
+    margin-top: 20px;
+    width: 100px;
+    height: 100px;
+}
+.product{
+    display: block;
+    text-align: center;
+    /*margin-left: 100px;*/
+    margin-right: auto;
+    margin-bottom: 30px; 
+    background-color: rgb(243, 229, 240);
+
+}
+
+.product a {
+    padding: 100px 150px;
+    text-decoration:dotted;
+    font-style:normal;
+   
+
+}
+
